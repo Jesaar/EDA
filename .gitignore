@@ -84,3 +84,6 @@ df_light.csv
 apresentacoes.csv
 df_via_administracion.csv
 formas_farmaceuticas.csv
+*.parquet
+train.csv
+test.csv
